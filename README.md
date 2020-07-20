@@ -1,5 +1,5 @@
 # Felipe Freitas
-- Brazilian system analyst who works at [CVC Corp](https://cvccorp.com.br "CVC Corp"). <br>
+- Brazilian system analyst who nowadays works at [CVC Corp](https://cvccorp.com.br "CVC Corp"). <br>
 - I currently live in Santo Andre, but I was born in Guarujá, south coast of São Paulo. <br>
 - Huge nerd who loves sports.
 
