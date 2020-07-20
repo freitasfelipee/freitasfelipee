@@ -4,7 +4,7 @@
 - Huge nerd who loves sports.
 
 ## How I work
-My motivation is to transform needs into successful solutions. I have large experience in participating not only in systems development, but also in all other phases of the projects life cycle. If you are looking for a professional who knows how to architect a system, integrate it with others or develop a solution on demand, you can count on me ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+My motivation is to transform needs into successful solutions. I have large experience in participating not only in systems development, but also in all other phases of the projects life cycle. If you are looking for a professional who knows how to architect a system, integrate it with others or develop a solution on demand, you can count on me ✅ <br> If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## My values
 🙌 Respect and trust as basis of everything <br>
